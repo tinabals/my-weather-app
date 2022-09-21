@@ -174,3 +174,9 @@ h1{
 .geolocation:hover{
     opacity: 0.9;
 }
+.repo{
+    text-align: center;
+}
+.repo  a{
+    text-decoration: none;
+}
